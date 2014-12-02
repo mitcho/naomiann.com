@@ -1,0 +1,52 @@
+body {
+	background-color: #a99217;
+	background-image: url(i/bg-bottom-3.png);
+	background-repeat: no-repeat;
+	background-position: right 450px;
+	padding: 0;
+	margin: 0;
+	min-width: 1000px;
+}
+
+a img {
+	border: none;
+}
+
+#top {
+	height: 450px;
+	background: #232221 url(i/bg-top.png) no-repeat bottom right;
+}
+
+div.center {
+	margin: 0 auto;
+	width: 900px;
+}
+
+#top .center {
+	min-height: 450px;
+	background-color: transparent;
+	background-image: url(i/naomi-erlewine.png);
+	background-repeat: no-repeat;
+	background-position: 80px bottom;
+}
+
+#name-ja {
+	float: right;
+	margin-top: 330px;
+}
+
+#bottom img {
+}
+
+#resume-en, #resume-ja {
+	float: right;
+	margin-top: 6px;
+}
+
+#bottom .center {
+	margin-top: 40px;
+}
+
+.bottom-row {
+	height: 43px;
+}
